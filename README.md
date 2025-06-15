@@ -19,6 +19,7 @@ Usage
 3. Using the trained model to classify new articles as real or fake.
 
 Example Output:
+
 Prediction: Fake News
 
 Dataset
